@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "skogdb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9c407666-e831-4822-a4b8-e3dae68000c0",
+      "database_name": "SkogD1-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
